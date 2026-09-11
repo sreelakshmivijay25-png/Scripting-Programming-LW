@@ -1,6 +1,6 @@
 % Name: Adon
 % Surname: Shaiju
-% Group: EDIfu25/2
+% Group: EDIfu25/1
 % Date: 11.09.2026
 
 %% Mandatory Task
